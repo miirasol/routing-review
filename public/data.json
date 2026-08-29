@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1,
+		"name": "Max Verstappen",
+		"email": "maxverstappen@email.com",
+		"team": "Red Bull Racing",
+		"country": "Netherlands",
+		"championships": 4,
+		"wins": 71,
+		"podiums": 131,
+		"races": 245,
+		"image": "/img/max-verstappen.webp"
+	},
+	{
+		"id": 2,
+		"name": "Isack Hadjar",
+		"email": "isackhadjar@email.com",
+		"team": "Red Bull Racing",
+		"country": "France",
+		"championships": 0,
+		"wins": 0,
+		"podiums": 1,
+		"races": 35,
+		"image": "/img/isack-hadjar.webp"
+	},
+	{
+		"id": 3,
+		"name": "Lewis Hamilton",
+		"email": "lewishamilton@email.com",
+		"team": "Ferrari",
+		"country": "United Kingdom",
+		"championships": 7,
+		"wins": 106,
+		"podiums": 207,
+		"races": 392,
+		"image": "/img/lewis-hamilton.webp"
+	},
+	{
+		"id": 4,
+		"name": "Charles Leclerc",
+		"email": "charlesleclerc@email.com",
+		"team": "Ferrari",
+		"country": "Monaco",
+		"championships": 0,
+		"wins": 9,
+		"podiums": 54,
+		"races": 185,
+		"image": "/img/charles-leclerc.webp"
+	},
+	{
+		"id": 5,
+		"name": "George Russell",
+		"email": "georgerussell@email.com",
+		"team": "Mercedes",
+		"country": "United Kingdom",
+		"championships": 0,
+		"wins": 7,
+		"podiums": 29,
+		"races": 164,
+		"image": "/img/george-russell.webp"
+	},
+	{
+		"id": 6,
+		"name": "Kimi Antonelli",
+		"email": "kimiantonelli@email.com",
+		"team": "Mercedes",
+		"country": "Italy",
+		"championships": 0,
+		"wins": 6,
+		"podiums": 13,
+		"races": 36,
+		"image": "/img/kimi-antonelli.webp"
+	},
+	{
+		"id": 7,
+		"name": "Lando Norris",
+		"email": "landonorris@email.com",
+		"team": "McLaren",
+		"country": "United Kingdom",
+		"championships": 1,
+		"wins": 12,
+		"podiums": 47,
+		"races": 164,
+		"image": "/img/lando-norris.webp"
+	},
+	{
+		"id": 8,
+		"name": "Oscar Piastri",
+		"email": "oscarpiastri@email.com",
+		"team": "McLaren",
+		"country": "Australia",
+		"championships": 0,
+		"wins": 9,
+		"podiums": 28,
+		"races": 75,
+		"image": "/img/oscar-piastri.webp"
+	},
+	{
+		"id": 9,
+		"name": "Liam Lawson",
+		"email": "liamlawson@email.com",
+		"team": "VCARB",
+		"country": "New Zealand",
+		"championships": 0,
+		"wins": 0,
+		"podiums": 0,
+		"races": 47,
+		"image": "/img/liam-lawson.webp"
+	},
+	{
+		"id": 10,
+		"name": "Arvid Lindblad",
+		"email": "arvidlindblad@email.com",
+		"team": "VCARB",
+		"country": "United Kingdom",
+		"championships": 0,
+		"wins": 0,
+		"podiums": 0,
+		"races": 13,
+		"image": "/img/arvid-lindblad.webp"
+	}
+]
